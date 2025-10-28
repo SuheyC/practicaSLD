@@ -1,8 +1,4 @@
-Perfecto ✅ Ya tienes prácticamente **todo el contenido del proyecto**, sólo te falta organizarlo como **repositorio “prologSLD”** de acuerdo con las instrucciones de tu práctica.
 
-Aquí te dejo exactamente cómo debe quedar la estructura, el contenido y qué poner en el `README.md`.
-
----
 
 ## 🗂️ Estructura de carpetas
 
