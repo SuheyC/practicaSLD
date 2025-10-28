@@ -1,0 +1,1120 @@
+{
+    "chilaquiles_verdes": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["sartén grande", "licuadora"],
+        "porciones": 4,
+        "instrucciones": [
+        "Fría la cebolla y los dientes de ajo hasta dorarlos. Reserve a un lado.",
+        "Hierva los tomates verdes y chiles durante 35 minutos hasta que se ablanden.",
+        "En una licuadora, coloque la cebolla, el ajo, los chiles (sin tallos), ⅓ de taza de agua, vinagre, sal y orégano seco.",
+        "Licúe hasta conseguir una salsa. Retire de la licuadora y cuele con un tamiz de cocina sobre un tazón.",
+        "Reserve para los chilaquiles. Se puede hacer hasta 2 días antes y almacenarse en la nevera.",
+        "Caliente el aceite vegetal en un sartén grande a fuego medio. Agregue las tortillas en triángulo en pequeños lotes y fríalos de cada lado durante 3 o 4 minutos o hasta que estén dorados.",
+        "Retire las tortillas del aceite y déjelas escurrir sobre una toalla de papel. Espolvoree con un poco de sal.",
+        "Escurra el exceso de aceite del sartén y deje sólo una cucharadita de aceite en él.",
+        "Coloque las cebollas en un sartén para saltearlas a fuego medio por 4 minutos para ablandarlas.",
+        "Agregue las tortillas y revuelva suavemente para combinarlas con la cebolla. Vierta la salsa verde para cubrir todas las tortillas uniformemente.",
+        "Espolvoree sal y el queso fresco en trocitos sobre los chilaquiles y deje que se derrita.",
+        "Sirva con 2 cucharadas de crema, o crema agria, sobre los chilaquiles. Decore con cilantro.",
+        "Sirva con un huevo frito (opcional)."
+        ],
+        "ingredientes": {
+        "carbohidrato": {"tortilla_de_maiz": "10 unidades"},
+        "aceite": {"aceite_vegetal": "½ taza"},
+        "verdura": {
+            "cebolla": "½ taza (en rodajas)",
+            "tomates_verdes": "4 unidades",
+            "chile_serrano": "1 unidad",
+            "chiles_jalapenos": "2 unidades",
+            "cebolla_blanca": "½ unidad"
+        },
+        "condimento": {"sal": "¼ cucharadita", "orégano": "½ cucharadita", "vinagre": "¼ cucharadita"},
+        "liquido": {"agua": "⅓ taza"},
+        "lacteo": {"queso_fresco": "¾ taza (en trocitos)", "crema": "½ taza"},
+        "hierba": {"cilantro": "al gusto"},
+        "otros": {"dientes_de_ajo": "2 unidades"}
+        }
+    },
+    "arroz_con_pollo": {
+        "tiempo_preparacion": 50,
+        "utensilios": ["sartén grande", "olla"],
+        "porciones": 4,
+        "instrucciones": [
+        "Sazone el pollo con sal y pimienta y dórelo en aceite.",
+        "Retire el pollo y en la misma sartén sofría cebolla, ajo, pimiento y tomate.",
+        "Agregue el arroz y revuelva hasta que se impregne de los sabores.",
+        "Añada el caldo de pollo y coloque el pollo encima. Cocine tapado a fuego bajo hasta que el arroz esté listo.",
+        "Decore con cilantro y sirva caliente."
+        ],
+        "ingredientes": {
+        "proteina": {"pollo": "500 g"},
+        "carbohidrato": {"arroz": "2 tazas"},
+        "aceite": {"aceite_vegetal": "3 cucharadas"},
+        "verdura": {"cebolla": "1 unidad", "pimiento": "1 unidad", "tomate": "2 unidades"},
+        "condimento": {"sal": "al gusto", "pimienta": "al gusto"},
+        "liquido": {"caldo_de_pollo": "3 tazas"},
+        "hierba": {"cilantro": "al gusto"}
+        }
+    },
+    "tacos_carne_asada": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén", "tabla de cortar"],
+        "porciones": 4,
+        "instrucciones": [
+        "Marinar la carne con ajo, sal, pimienta y jugo de limón por 15 minutos.",
+        "Caliente una sartén a fuego alto y cocine la carne hasta dorarla.",
+        "Caliente las tortillas de maíz y sirva la carne sobre ellas.",
+        "Añada cebolla picada, cilantro y salsa al gusto."
+        ],
+        "ingredientes": {
+        "proteina": {"carne_res": "500 g"},
+        "carbohidrato": {"tortilla_de_maiz": "8 unidades"},
+        "verdura": {"cebolla": "½ unidad", "cilantro": "al gusto"},
+        "condimento": {"sal": "al gusto", "pimienta": "al gusto", "jugo_de_limon": "2 cucharadas"},
+        "aceite": {"aceite_vegetal": "1 cucharada"}
+        }
+    },
+    "ceviche": {
+        "tiempo_preparacion": 20,
+        "utensilios": ["tazón grande", "cuchillo"],
+        "porciones": 4,
+        "instrucciones": [
+        "Corte el pescado en cubos pequeños.",
+        "Coloque el pescado en un tazón y agregue sal y jugo de limón.",
+        "Deje reposar 10 minutos hasta que el pescado se “cocine” en el ácido.",
+        "Añada cebolla roja, cilantro y ají picado. Mezcle y sirva frío."
+        ],
+        "ingredientes": {
+        "proteina": {"pescado_blanco": "500 g"},
+        "verdura": {"cebolla_roja": "1 unidad", "cilantro": "al gusto", "aji": "1 unidad"},
+        "condimento": {"sal": "al gusto"},
+        "liquido": {"jugo_de_limon": "½ taza"}
+        }
+    },
+    "tamales": {
+        "tiempo_preparacion": 90,
+        "utensilios": ["olla vaporera", "bol"],
+        "porciones": 6,
+        "instrucciones": [
+        "Remoje las hojas de maíz en agua caliente.",
+        "Prepare la masa con harina de maíz, manteca y caldo.",
+        "Rellene cada hoja con masa y carne de cerdo guisada.",
+        "Doble y cocine al vapor durante 1 hora.",
+        "Sirva caliente con salsa al gusto."
+        ],
+        "ingredientes": {
+        "carbohidrato": {"harina_maiz": "3 tazas"},
+        "proteina": {"cerdo": "500 g"},
+        "aceite": {"manteca": "½ taza"},
+        "verdura": {"chile": "2 unidades"},
+        "condimento": {"sal": "al gusto"},
+        "liquido": {"caldo": "1 taza"}
+        }
+    },
+    "carne_de_res_salteada": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén grande", "cuchara de madera"],
+        "porciones": 4,
+        "instrucciones": [
+        "Corte la carne de res en tiras y sazone con sal y pimienta.",
+        "Saltee la carne a fuego alto hasta dorarla.",
+        "Agregue cebolla, tomate y ají amarillo. Saltee rápidamente.",
+        "Añada salsa de soja y vinagre. Mezcle y sirva con arroz blanco y papas fritas."
+        ],
+        "ingredientes": {
+        "proteina": {"carne_res": "400 g"},
+        "carbohidrato": {"arroz": "2 tazas", "papas": "3 unidades"},
+        "verdura": {"cebolla": "1 unidad", "tomate": "2 unidades", "aji_amarillo": "1 unidad"},
+        "condimento": {"sal": "al gusto", "pimienta": "al gusto", "vinagre": "1 cucharada", "salsa_soja": "2 cucharadas"},
+        "aceite": {"aceite_vegetal": "2 cucharadas"}
+        }
+    },
+    "enchiladas_rojas": {
+        "tiempo_preparacion": 45,
+        "utensilios": ["sartén", "licuadora", "olla"],
+        "porciones": 4,
+        "instrucciones": [
+        "Licúe tomates, chiles secos, ajo y cebolla hasta obtener una salsa suave.",
+        "Caliente la salsa en un sartén con un poco de aceite y sazone con sal.",
+        "Fría ligeramente las tortillas en aceite y rellénelas con pollo deshebrado.",
+        "Cubra las tortillas con la salsa y espolvoree queso fresco.",
+        "Decore con crema, cebolla picada y cilantro."
+        ],
+        "ingredientes": {
+        "carbohidrato": {"tortilla_de_maiz": "8 unidades"},
+        "proteina": {"pollo": "400 g"},
+        "aceite": {"aceite_vegetal": "3 cucharadas"},
+        "verdura": {"cebolla": "1 unidad"},
+        "condimento": {"sal": "al gusto"},
+        "liquido": {"agua": "¼ taza"},
+        "lacteo": {"queso_fresco": "½ taza", "crema": "¼ taza"},
+        "hierba": {"cilantro": "al gusto"},
+        "otros": {"dientes_de_ajo": "2 unidades", "chiles_secos": "3 unidades", "tomates": "4 unidades"}
+        }
+    },
+    "tacos_al_pastor": {
+        "tiempo_preparacion": 60,
+        "utensilios": ["sartén", "tabla de cortar"],
+        "porciones": 4,
+        "instrucciones": [
+        "Marinar la carne de cerdo en achiote, jugo de piña, ajo y chiles secos durante 30 minutos.",
+        "Cocine la carne en un sartén hasta que esté dorada y jugosa.",
+        "Caliente las tortillas y coloque la carne en ellas.",
+        "Decore con piña, cebolla picada y cilantro. Sirva con salsa al gusto."
+        ],
+        "ingredientes": {
+        "proteina": {"cerdo": "500 g"},
+        "carbohidrato": {"tortilla_de_maiz": "8 unidades"},
+        "verdura": {"cebolla": "½ unidad", "cilantro": "al gusto", "piña": "½ taza picada"},
+        "condimento": {"sal": "al gusto"},
+        "otros": {"achiote": "2 cucharadas", "chiles_secos": "3 unidades", "ajo": "2 dientes"},
+        "liquido": {"jugo_de_piña": "¼ taza"},
+        "aceite": {"aceite_vegetal": "2 cucharadas"}
+        }
+    },
+    "quesadillas_flor_calabaza": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén", "tabla de cortar"],
+        "porciones": 4,
+        "instrucciones": [
+        "Rellene tortillas de maíz con flor de calabaza y queso fresco.",
+        "Doble las tortillas y cocine en un sartén hasta que el queso se derrita.",
+        "Sirva caliente acompañadas de salsa verde o roja."
+        ],
+        "ingredientes": {
+        "carbohidrato": {"tortilla_de_maiz": "8 unidades"},
+        "verdura": {"flor_calabaza": "1 taza"},
+        "lacteo": {"queso_fresco": "100 g"},
+        "aceite": {"aceite_vegetal": "1 cucharada"},
+        "condimento": {"sal": "al gusto"},
+        "otros": {"ajo": "1 diente"}
+        }
+    },
+        "enchiladas_vegetarianas": {
+        "tiempo_preparacion": 45,
+        "utensilios": ["sartén", "licuadora", "cuchillo", "tabla para picar"],
+        "porciones": 4,
+        "instrucciones": [
+            "Preparar la salsa licuando tomates, chiles y especias.",
+            "Cocer las tortillas ligeramente en aceite.",
+            "Rellenar las tortillas con la mezcla de verduras.",
+            "Enrollar las tortillas y colocarlas en un refractario.",
+            "Bañar con la salsa y espolvorear con queso.",
+            "Hornear por 15 minutos a 180°C."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"tortillas_de_maiz": "12 unidades"},
+            "lacteo": {"queso_fresco": "1 taza"},
+            "aceite": {"aceite_vegetal": "3/4 taza"},
+            "verdura": {
+                "tomates_rojos": "4 unidades",
+                "cebolla": "1 pieza",
+                "chiles_poblanos": "2 unidades",
+                "zanahorias": "2 unidades",
+                "calabacitas": "2 unidades",
+                "elote": "1 taza"
+            },
+            "condimento": {"sal": "al gusto", "comino": "1/2 cucharadita"},
+            "hierba": {"cilantro": "1/4 taza"}
+        }
+    },
+    "tacos_de_champiñones": {
+        "tiempo_preparacion": 25,
+        "utensilios": ["sartén", "cuchillo", "tabla para picar"],
+        "porciones": 3,
+        "instrucciones": [
+            "Lavar y rebanar los champiñones.",
+            "Sofreír con cebolla, ajo y chiles.",
+            "Sazonar con especias al gusto.",
+            "Calentar las tortillas.",
+            "Servir los champiñones en tortillas con cilantro y limón."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"tortillas_de_maiz": "9 unidades"},
+            "aceite": {"aceite_vegetal": "2 cucharadas"},
+            "verdura": {
+                "champiñones": "500g",
+                "cebolla": "1 pieza",
+                "chiles_serranos": "2 unidades",
+                "limones": "3 unidades"
+            },
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"},
+            "hierba": {"cilantro": "1/2 taza"},
+            "otros": {"ajo": "2 dientes"}
+        }
+    },
+    "tacos_de_lentejas": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["olla", "sartén", "cuchillo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Cocinar las lentejas en agua hasta que estén tiernas.",
+            "Sofreír cebolla, ajo y tomate.",
+            "Agregar las lentejas cocidas y especias.",
+            "Cocinar por 10 minutos más.",
+            "Servir en tortillas con lechuga y crema."
+        ],
+        "ingredientes": {
+            "proteina_vegetal": {"lentejas": "2 tazas"},
+            "carbohidrato": {"tortillas_de_maiz": "12 unidades"},
+            "lacteo": {"crema": "1/2 taza"},
+            "aceite": {"aceite_vegetal": "2 cucharadas"},
+            "verdura": {
+                "cebolla": "1 pieza",
+                "tomates": "2 unidades",
+                "lechuga": "2 tazas"
+            },
+            "condimento": {"sal": "al gusto", "comino": "1 cucharadita"}
+        }
+    },
+    "pimiento_relleno": {
+        "tiempo_preparacion": 50,
+        "utensilios": ["sartén", "horno", "cuchillo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Cortar la parte superior de los pimientos y quitar semillas.",
+            "Preparar relleno con arroz, verduras y especias.",
+            "Rellenar los pimientos con la mezcla.",
+            "Hornear a 180°C por 25 minutos.",
+            "Servir caliente."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"arroz_cocido": "2 tazas"},
+            "lacteo": {"queso_rayado": "1 taza"},
+            "verdura": {
+                "pimientos_morrones": "4 unidades",
+                "cebolla": "1/2 pieza",
+                "jitomate": "2 unidades",
+                "elote": "1/2 taza"
+            },
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"},
+            "hierba": {"perejil": "2 cucharadas"}
+        }
+    },
+    "sopa_de_tortilla": {
+        "tiempo_preparacion": 35,
+        "utensilios": ["olla", "sartén", "licuadora"],
+        "porciones": 4,
+        "instrucciones": [
+            "Dorar las tortillas en aceite y reservar.",
+            "Licuar tomates, cebolla y ajo para la salsa.",
+            "Sofreír la salsa y agregar caldo de verduras.",
+            "Cocinar por 15 minutos.",
+            "Servir con tortillas, aguacate y queso."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"tortillas_de_maiz": "6 unidades"},
+            "lacteo": {"queso_fresco": "1/2 taza"},
+            "aceite": {"aceite_vegetal": "3 cucharadas"},
+            "verdura": {
+                "tomates_rojos": "4 unidades",
+                "cebolla": "1/2 pieza",
+                "aguacate": "1 pieza"
+            },
+            "condimento": {"sal": "al gusto"},
+            "liquido": {"caldo_de_verduras": "1.5 litros"}
+        }
+    },
+    "molinetes_mexicanos": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén", "cuchillo", "tabla para picar"],
+        "porciones": 4,
+        "instrucciones": [
+            "Mezclar el queso crema con chiles y especias.",
+            "Untar las tortillas con la mezcla.",
+            "Enrollar las tortillas y cortar en rodajas.",
+            "Servir con salsa de tomate."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"tortillas_de_harina": "8 unidades"},
+            "lacteo": {"queso_crema": "200g"},
+            "verdura": {
+                "chiles_poblanos": "2 unidades",
+                "cebolla": "1/4 pieza"
+            },
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"}
+        }
+    },
+    "ceviche_de_mango": {
+        "tiempo_preparacion": 20,
+        "utensilios": ["tazón", "cuchillo", "tabla para picar"],
+        "porciones": 4,
+        "instrucciones": [
+            "Picar el mango, pepino y cebolla en cubos pequeños.",
+            "Mezclar con jugo de limón y cilantro.",
+            "Sazonar con sal y chile.",
+            "Refrigerar por 15 minutos antes de servir.",
+            "Acompañar con tostadas."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"tostadas": "12 unidades"},
+            "verdura": {
+                "mango": "2 piezas",
+                "pepino": "1 pieza",
+                "cebolla_morada": "1/2 pieza",
+                "chiles_serranos": "2 unidades",
+                "limones": "6 unidades"
+            },
+            "condimento": {"sal": "al gusto"},
+            "hierba": {"cilantro": "1/4 taza"}
+        }
+    },
+    "picadillo_de_soya_mexicano": {
+        "tiempo_preparacion": 25,
+        "utensilios": ["sartén", "olla", "cuchillo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Hidratar la soya texturizada en agua caliente.",
+            "Sofreír cebolla, ajo y tomate.",
+            "Agregar la soya hidratada y especias.",
+            "Cocinar por 10 minutos.",
+            "Servir con arroz o tortillas."
+        ],
+        "ingredientes": {
+            "proteina_vegetal": {"soya_texturizada": "2 tazas"},
+            "aceite": {"aceite_vegetal": "2 cucharadas"},
+            "verdura": {
+                "cebolla": "1 pieza",
+                "tomates": "3 unidades",
+                "papa": "1 pieza",
+                "zanahoria": "1 pieza"
+            },
+            "condimento": {
+                "sal": "al gusto",
+                "comino": "1 cucharadita",
+                "pimienta": "al gusto"
+            },
+            "otros": {"ajo": "2 dientes"}
+        }
+    },
+    "tortitas_de_papa_rellena": {
+        "tiempo_preparacion": 50,
+        "utensilios": ["olla", "sartén", "tazón"],
+        "porciones": 6,
+        "instrucciones": [
+            "Cocer y hacer puré de papas.",
+            "Preparar relleno de verduras y especias.",
+            "Formar tortitas con el puré rellenas con la mezcla.",
+            "Dorar en aceite por ambos lados.",
+            "Servir con salsa de tomate."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"papas": "6 unidades", "pan_molido": "1 taza"},
+            "aceite": {"aceite_vegetal": "1 taza"},
+            "verdura": {
+                "cebolla": "1/2 pieza",
+                "jitomate": "2 unidades",
+                "elote": "1/2 taza"
+            },
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"},
+            "hierba": {"perejil": "2 cucharadas"}
+        }
+    },
+    "calabacitas_al_horno": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["refractario", "cuchillo", "tabla para picar"],
+        "porciones": 4,
+        "instrucciones": [
+            "Cortar las calabacitas en rodajas.",
+            "Mezclar con cebolla, tomate y especias.",
+            "Colocar en refractario y espolvorear queso.",
+            "Hornear a 180°C por 25 minutos.",
+            "Servir caliente."
+        ],
+        "ingredientes": {
+            "lacteo": {"queso_rayado": "1 taza"},
+            "verdura": {
+                "calabacitas": "6 unidades",
+                "cebolla": "1 pieza",
+                "jitomate": "2 unidades",
+                "elote": "1 taza"
+            },
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"},
+            "hierba": {"epazote": "2 cucharadas"}
+        }
+    },
+        "coctel_de_camaron": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["envoltura_de_plastico", "refrigerador"],
+        "porciones": 4,
+        "instrucciones": [
+            "Mezcla el coctél de tomate, el jugo de naranja, la cátsup, la salsa picante, el jugo de limón, el jugo Maggi, salsa inglesa y la sal con pimienta. Añade el cilantro, la cebolla morada, el chile serrano y los camarones: cubre con plástico adherente y refrigera por 30 minutos. Sirve el coctel en copas, decora con el aguacate y acompaña con galletas saladas."
+        ],
+        "ingredientes": {
+            "proteina": {"camaron": "al gusto (cocidos y pelados)"},
+            "verdura": {
+                "cilantro": "10 ramas (desinfectadas y picadas)",
+                "cebolla_morada": "½ pieza (picada finamente)",
+                "chile_serrano": "2 piezas (picados finamente)",
+                "tomates_verdes": "600 gramos (limpios y cocidos)",
+                "aguacate": "1 (cortado en rebanadas)"
+            },
+            "condimento": {"sal_con_pimienta": "½ cucharadita"},
+            "liquido": {
+                "coctel_de_tomate_con_almeja": "½ taza",
+                "jugo_de_naranja": "1 naranja (su jugo)",
+                "jugo_de_limon": "2 limones",
+                "jugo_maggi": "1 cucharadita",
+                "salsa_inglesa": "1 cucharadita",
+                "salsa_picante": "4 cucharadas",
+                "catsup": "1 taza"
+            },
+            "otros": {
+                "galletas_saladas": "1 paquete"
+            }
+        }
+    },
+    "ensalada_de_quinoa": {
+        "tiempo_preparacion": 25,
+        "utensilios": ["olla", "tazón"],
+        "porciones": 3,
+        "instrucciones": [
+            "Enjuague la quinoa y cocínela en agua hasta que esté esponjosa.",
+            "Deje enfriar y mezcle con pepino, jitomate, cebolla y pimiento.",
+            "Agregue aceite de oliva, jugo de limón y sal al gusto.",
+            "Sirva fría y decore con hojas de perejil fresco."
+        ],
+        "ingredientes": {
+            "proteina": {"quinoa": "1 taza"},
+            "carbohidrato": {"quinoa": "1 taza cocida"},
+            "verdura": {"pepino": "1 unidad", "jitomate": "2 unidades", "cebolla": "¼ unidad", "pimiento_rojo": "½ unidad"},
+            "liquido": {"aceite_de_oliva": "2 cucharadas", "jugo_de_limon": "1 cucharada"},
+            "condimento": {"sal": "al gusto"},
+            "hierba": {"perejil": "al gusto"}
+        }
+    },
+
+    "curry_de_garbanzos": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["olla", "cuchillo", "cuchara de madera"],
+        "porciones": 4,
+        "instrucciones": [
+            "En un sartén grande, sofría cebolla, ajo y jengibre.",
+            "Agregue los garbanzos cocidos, el tomate triturado y las especias.",
+            "Cocine a fuego medio durante 20 minutos, agregando leche de coco si desea una textura más cremosa.",
+            "Sirva caliente con arroz integral."
+        ],
+        "ingredientes": {
+            "proteina": {"garbanzos": "2 tazas cocidos"},
+            "carbohidrato": {"arroz_integral": "1 taza cocido"},
+            "verdura": {"tomate": "2 unidades", "cebolla": "1 unidad", "ajo": "2 dientes"},
+            "condimento": {"curcuma": "1 cucharadita", "comino": "1 cucharadita", "sal": "al gusto"},
+            "liquido": {"aceite_vegetal": "2 cucharadas", "leche_de_coco": "½ taza opcional"},
+            "hierba": {"cilantro": "al gusto"}
+        }
+    },
+
+    "hamburguesas_de_frijol_negro": {
+        "tiempo_preparacion": 50,
+        "utensilios": ["procesador_de_alimentos", "sartén"],
+        "porciones": 4,
+        "instrucciones": [
+            "Triture los frijoles negros con cebolla, avena y especias hasta obtener una mezcla homogénea.",
+            "Forme hamburguesas y cocínelas en sartén con un poco de aceite.",
+            "Sirva en pan integral con lechuga, jitomate y aguacate."
+        ],
+        "ingredientes": {
+            "proteina": {"frijoles_negros": "2 tazas cocidos"},
+            "carbohidrato": {"pan_integral": "4 piezas", "avena": "½ taza"},
+            "verdura": {"cebolla": "½ unidad", "jitomate": "1 unidad", "lechuga": "4 hojas", "aguacate": "1 unidad"},
+            "condimento": {"sal": "al gusto", "pimienta": "¼ cucharadita"},
+            "liquido": {"aceite_vegetal": "2 cucharadas"}
+        }
+    },
+
+    "spaghetti_con_pure_de_berenjena": {
+        "tiempo_preparacion": 35,
+        "utensilios": ["olla", "licuadora", "sartén"],
+        "porciones": 3,
+        "instrucciones": [
+            "Cocine la pasta hasta que esté al dente.",
+            "Ase la berenjena, retire la piel y licúe con ajo, limón y aceite de oliva.",
+            "Caliente la mezcla y mézclela con la pasta.",
+            "Sirva con perejil fresco encima."
+        ],
+        "ingredientes": {
+            "proteina": {"tofu": "½ taza troceado"},
+            "carbohidrato": {"spaghetti_integral": "250 g"},
+            "verdura": {"berenjena": "1 unidad", "ajo": "2 dientes"},
+            "liquido": {"aceite_de_oliva": "2 cucharadas", "jugo_de_limon": "1 cucharada"},
+            "condimento": {"sal": "al gusto"},
+            "hierba": {"perejil": "al gusto"}
+        }
+    },
+
+
+
+    "enchiladas_de_queso": {
+        "tiempo_preparacion": 45,
+        "utensilios": ["sartén", "licuadora", "olla"],
+        "porciones": 4,
+        "instrucciones": [
+            "Licúe los tomates, chiles y ajo con un poco de agua para hacer la salsa.",
+            "Fría las tortillas ligeramente y sumérjalas en la salsa caliente.",
+            "Rellene con queso fresco y enrolle las enchiladas.",
+            "Sirva con lechuga, crema y cebolla encima."
+        ],
+        "ingredientes": {
+            "proteina": {"queso_fresco": "1 taza"},
+            "carbohidrato": {"tortillas_de_maiz": 8},
+            "verdura": {"tomate": "4 unidades", "chile": "2 unidades", "ajo": "2 dientes", "cebolla": "½ unidad", "lechuga": "1 taza picada"},
+            "liquido": {"agua": "1 taza", "aceite_vegetal": "3 cucharadas"},
+            "condimento": {"sal": "al gusto"},
+            "otros": {"crema": "½ taza"}
+        }
+    },
+
+    "omelette_de_espinaca_y_champiñones": {
+        "tiempo_preparacion": 25,
+        "utensilios": ["sartén", "batidor", "espátula"],
+        "porciones": 2,
+        "instrucciones": [
+            "Bata los huevos con sal y pimienta.",
+            "Sofría los champiñones y la espinaca hasta que estén tiernos.",
+            "Agregue los huevos batidos y cocine hasta que cuaje.",
+            "Doble el omelette y sirva caliente."
+        ],
+        "ingredientes": {
+            "proteina": {"huevo": 3},
+            "carbohidrato": {"pan_integral": "2 rebanadas"},
+            "verdura": {"espinaca": "1 taza", "champiñones": "½ taza"},
+            "liquido": {"aceite_de_oliva": "1 cucharada"},
+            "condimento": {"sal": "al gusto", "pimienta": "¼ cucharadita"}
+        }
+    },
+
+    "lasagna_de_vegetales": {
+        "tiempo_preparacion": 60,
+        "utensilios": ["horno", "molde", "sartén"],
+        "porciones": 6,
+        "instrucciones": [
+            "Cocine las láminas de lasaña según las instrucciones.",
+            "Sofría las verduras en aceite hasta que estén tiernas.",
+            "Arme capas de pasta, verduras, salsa de tomate y queso.",
+            "Hornee por 25 minutos a 180°C hasta que el queso se derrita."
+        ],
+        "ingredientes": {
+            "proteina": {"queso_mozzarella": "1 taza", "ricotta": "½ taza"},
+            "carbohidrato": {"pasta_para_lasagna": "9 láminas"},
+            "verdura": {"calabacita": "1 unidad", "berenjena": "1 unidad", "zanahoria": "1 unidad", "espinaca": "1 taza", "tomate": "2 unidades"},
+            "liquido": {"aceite_de_oliva": "2 cucharadas", "salsa_de_tomate": "1 taza"},
+            "condimento": {"sal": "al gusto", "orégano": "½ cucharadita"}
+        }
+    },
+
+    "sopa_de_brocoli_y_queso": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["olla", "licuadora"],
+        "porciones": 4,
+        "instrucciones": [
+            "Hierva el brócoli con un poco de sal hasta que esté tierno.",
+            "Licúe con leche y queso hasta obtener una mezcla cremosa.",
+            "Caliente nuevamente y sazone al gusto.",
+            "Sirva caliente con pan integral."
+        ],
+        "ingredientes": {
+            "proteina": {"queso_cheddar": "½ taza"},
+            "carbohidrato": {"pan_integral": "4 rebanadas"},
+            "verdura": {"brocoli": "2 tazas"},
+            "liquido": {"leche": "2 tazas", "agua": "1 taza"},
+            "condimento": {"sal": "al gusto", "pimienta": "¼ cucharadita"}
+        }
+    },
+        "mole poblano": {
+        "tiempo_preparacion": 180,
+        "utensilios": ["olla grande", "licuadora", "sartén", "colador"],
+        "porciones": 8,
+        "instrucciones": [
+            "Asar los chiles ligeramente en un comal.",
+            "Hervir el pollo en agua con sal, cebolla y ajo hasta que esté cocido.",
+            "Dorar ligeramente las tortillas y el pan en un sartén.",
+            "En la misma grasa, freír los ingredientes secos.",
+            "Licuar todos los ingredientes para el mole con el caldo del pollo hasta obtener una salsa tersa.",
+            "Colar la salsa y ponerla a fuego medio en una olla grande.",
+            "Agregar la tableta de chocolate y mover constantemente hasta que se disuelva.",
+            "Cocinar por 45 minutos a fuego bajo.",
+            "Servir el pollo bañado con la salsa de mole, decorar con ajonjolí y acompañar con arroz."
+        ],
+        "ingredientes": {
+            "proteina": {"pollo": "1 entero cortado en piezas"},
+            "carbohidrato": {"tortillas_de_maiz": "2 unidades", "bolillo": "1 rebanado"},
+            "aceite": {"aceite_vegetal": "½ taza"},
+            "verdura": {
+                "cebolla": "½ pieza",
+                "jitomate": "2 unidades",
+                "platano_macho": "1 unidad",
+                "cacahuates": "¼ taza",
+                "pasas": "2 cucharadas",
+                "chiles_mulatos": "4 unidades",
+                "chiles_pasillas": "3 unidades",
+                "chiles_chipotle": "2 unidades",
+                "ajo": "4 dientes"
+            },
+            "condimento": {
+                "sal": "al gusto",
+                "canela_en_rama": "1 trozo",
+                "clavos_de_olor": "3 unidades",
+                "pimienta_negra": "½ cucharadita",
+                "comino": "½ cucharadita"
+            },
+            "liquido": {"caldo_de_pollo": "2 litros"},
+            "otros": {
+                "almendras": "¼ taza",
+                "chocolate_de_mesa": "1 tableta",
+                "ajonjoli": "2 cucharadas"
+            }
+        }
+    },
+    "pozole": {
+        "tiempo_preparacion": 120,
+        "utensilios": ["olla grande", "tabla para picar", "cuchillo"],
+        "porciones": 6,
+        "instrucciones": [
+            "Cocinar la carne de cerdo en agua con ajo, cebolla y sal hasta que esté tierna.",
+            "Agregar el maíz pozolero previamente remojado y cocinar por 1 hora más hasta que los granos revienten.",
+            "Preparar la salsa licuando los chiles guajillo con ajo y cebolla.",
+            "Agregar la salsa al pozole y cocinar 30 minutos más.",
+            "Servir en platos hondos y acompañar con lechuga, rábano, cebolla, orégano, limón y tostadas."
+        ],
+        "ingredientes": {
+            "proteina": {"carne_de_cerdo": "1kg (maciza y costilla)"},
+            "carbohidrato": {"maiz_pozolero": "500g", "tostadas": "12 unidades"},
+            "verdura": {
+                "cebolla": "1 pieza",
+                "cebolla_picada": "½ taza",
+                "lechuga": "1 taza (finamente picada)",
+                "rábanos": "½ taza (en rodajas)",
+                "limones": "4 unidades",
+                "chiles_guajillo": "6 unidades",
+                "ajos": "4 dientes"
+            },
+            "liquido": {"agua": "3 litros"},
+            "condimento": {"sal": "al gusto", "orégano_seco": "1 cucharada"}
+        }
+    },
+    "chiles en nogada": {
+        "tiempo_preparacion": 150,
+        "utensilios": ["sartén grande", "olla", "licuadora", "cuchillo"],
+        "porciones": 6,
+        "instrucciones": [
+            "Asar los chiles, pelarlos y quitarles las venas y semillas.",
+            "Preparar el picadillo friendo la carne molida con cebolla, ajo, frutas picadas y especias.",
+            "Rellenar los chiles con el picadillo.",
+            "Para la nogada, licuar las nueces con queso fresco, leche y azúcar.",
+            "Bañar los chiles con la salsa de nuez.",
+            "Decorar con perejil y granos de granada."
+        ],
+        "ingredientes": {
+            "proteina": {"carne_molida_de_cerdo": "500g"},
+            "lacteo": {"queso_fresco": "200g", "leche_entera": "1 taza"},
+            "verdura": {"cebolla": "1 pieza", "chiles_poblanos": "6 unidades",
+                "duraznos": "2 piezas",
+                "pera": "1 pieza",
+                "manzana": "1 pieza",
+                "granada": "1 pieza",
+                "pasas": "¼ taza"},
+                "ajo": "2 dientes",
+            "condimento": {"sal": "al gusto", "azúcar": "2 cucharadas"},
+            "hierba": {"perejil": "¼ taza"},
+            "otros": {"almendras": "¼ taza",
+                "nueces_de_castilla": "2 tazas"}
+        }
+    },
+    "cochinita pibil": {
+        "tiempo_preparacion": 240,
+        "utensilios": ["refractario", "licuadora", "horno"],
+        "porciones": 8,
+        "instrucciones": [
+            "Licuar el achiote con jugo de naranja, vinagre, especias y ajo.",
+            "Marinar la carne de cerdo con esta mezcla por al menos 2 horas.",
+            "Forrar un refractario con hojas de plátano, colocar la carne marinada y cubrir con más hojas.",
+            "Hornear a 180°C por 3-4 horas hasta que la carne esté muy tierna.",
+            "Deshebrar la carne y servir en tacos con cebolla morada encurtida."
+        ],
+        "ingredientes": {
+            "proteina": {"carne_de_cerdo": "2kg (pierna o lomo)"},
+            "verdura": {"cebolla_morada": "2 piezas", "chiles_habaneros": "2 unidades"},
+            "condimento": {
+                "sal": "al gusto",
+                "comino": "1 cucharadita",
+                "pimienta_negra": "1 cucharadita",
+                "orégano_seco": "1 cucharada"
+            },
+            "liquido": {"jugo_de_naranja_agria": "2 tazas", "vinagre_blanco": "¼ taza"},
+            "otros": {
+                "pasta_de_achiote": "120g",
+                "ajo": "6 dientes",
+                "hojas_de_platano": "4 unidades"
+            }
+        }
+    },
+    "birria": {
+        "tiempo_preparacion": 300,
+        "utensilios": ["olla grande", "licuadora", "colador"],
+        "porciones": 8,
+        "instrucciones": [
+            "Asar ligeramente los chiles y remojarlos en agua caliente.",
+            "Licuar los chiles con tomate, cebolla, ajo, especias y vinagre.",
+            "Marinar la carne con esta mezcla por varias horas.",
+            "Cocinar la carne en una olla grande con el agua necesaria por 4-5 horas a fuego bajo.",
+            "Deshebrar la carne y servir el caldo con la carne, acompañado de cebolla, cilantro y limón."
+        ],
+        "ingredientes": {
+            "proteina": {"carne_de_chivo_o_res": "2kg"},
+            "verdura": {
+                "cebolla": "1 pieza",
+                "cebolla_picada": "1 taza",
+                "tomates": "4 unidades",
+                "limones": "6 unidades",
+                "chiles_guajillo": "8 unidades",
+                "chiles_ancho": "4 unidades"
+            },
+            "condimento": {
+                "sal": "al gusto",
+                "comino": "1 cucharadita",
+                "tomillo": "1 cucharadita",
+                "mejorana": "1 cucharadita"
+            },
+            "liquido": {"vinagre_de_manzana": "¼ taza"},
+            "hierba": {"cilantro": "½ taza"},
+            "otros": {
+                "ajos": "6 dientes",
+                "clavos_de_olor": "4 unidades"
+            }
+        }
+    },
+    "huevos rancheros": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén", "licuadora"],
+        "porciones": 4,
+        "instrucciones": [
+            "Preparar la salsa licuando tomate, cebolla, chile y cilantro.",
+            "Sofreír la salsa en un sartén con aceite por 10 minutos.",
+            "Freír las tortillas ligeramente en aceite.",
+            "Freír los huevos al gusto.",
+            "Servir cada tortilla con un huevo frito encima, bañar con la salsa caliente y decorar con queso fresco y cilantro."
+        ],
+        "ingredientes": {
+            "proteina": {"huevos": "8 unidades"},
+            "carbohidrato": {"tortillas_de_maiz": "8 unidades"},
+            "lacteo": {"queso_fresco": "½ taza"},
+            "aceite": {"aceite_vegetal": "¼ taza"},
+            "verdura": {
+                "tomates_rojos": "4 unidades",
+                "cebolla": "½ pieza",
+                "chiles_serranos": "2 unidades"
+            },
+            "condimento": {"sal": "al gusto"},
+            "hierba": {"cilantro": "¼ taza"}
+        }
+    },
+    "caldo de res": {
+        "tiempo_preparacion": 120,
+        "utensilios": ["olla grande", "cuchillo", "tabla para picar"],
+        "porciones": 6,
+        "instrucciones": [
+            "Cocinar la carne de res en agua con sal, cebolla y ajo por 1 hora.",
+            "Agregar las verduras en trozos grandes (zanahoria, papa, calabaza) y cocinar por 30 minutos más.",
+            "Añadir el repollo y el elote y cocinar por 15 minutos adicionales.",
+            "Servir caliente con cilantro y limón, acompañado de arroz."
+        ],
+        "ingredientes": {
+            "proteina": {"carne_de_res_con_hueso": "1.5kg"},
+            "verdura": {
+                "zanahorias": "3 unidades",
+                "papas": "3 unidades",
+                "calabazas": "2 unidades",
+                "elote": "2 piezas",
+                "repollo": "¼ pieza",
+                "cebolla": "1 pieza",
+                "limones": "4 unidades"
+            },
+            "condimento": {"sal": "al gusto"},
+            "hierba": {"cilantro": "½ taza"},
+            "otros": {"ajos": "4 dientes"}
+        }
+    },
+    "chicharron en salsa verde": {
+        "tiempo_preparacion": 45,
+        "utensilios": ["olla", "licuadora", "sartén"],
+        "porciones": 4,
+        "instrucciones": [
+            "Cocinar los tomates verdes con chile serrano en agua hasta que ablanden.",
+            "Licuar con cebolla, ajo y cilantro.",
+            "Sofreír la salsa en aceite por 10 minutos.",
+            "Agregar el chicharrón partido en trozos y cocinar a fuego bajo por 15 minutos.",
+            "Servir con frijoles refritos y tortillas calientes."
+        ],
+        "ingredientes": {
+            "proteina": {"chicharrón": "500g"},
+            "aceite": {"aceite_vegetal": "2 cucharadas"},
+            "verdura": {
+                "tomates_verdes": "500g",
+                "cebolla": "½ pieza",
+                "chiles_serranos": "3 unidades"
+            },
+            "condimento": {"sal": "al gusto"},
+            "hierba": {"cilantro": "¼ taza"},
+            "otros": {"ajo": "2 dientes"}
+        }
+    },
+    "tacos de pescado": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["sartén", "tazón", "pinzas"],
+        "porciones": 4,
+        "instrucciones": [
+            "Cortar el pescado en tiras.",
+            "Mezclar la harina con polvo para hornear, sal y pimienta.",
+            "Agregar la cerveza poco a poco hasta formar una masa espesa.",
+            "Sumergir el pescado en la masa y freír en aceite caliente hasta dorar.",
+            "Servir en tortillas con repollo, salsa y crema."
+        ],
+        "ingredientes": {
+            "proteina": {"filete_de_pescado_blanco": "500g"},
+            "carbohidrato": {
+                "tortilla_de_maiz": "12 unidades",
+                "harina_de_trigo": "1 taza"
+            },
+            "lacteo": {"crema": "½ taza"},
+            "aceite": {"aceite_vegetal": "2 tazas"},
+            "verdura": {"repollo": "2 tazas (finamente picado)","limones": "4 unidades"},
+            "condimento": {
+                "sal": "al gusto",
+                "pimienta": "al gusto",
+                "polvo_para_hornear": "1 cucharadita"
+            },
+            "liquido": {"cerveza_clara": "¾ taza"}
+        }
+    },
+    "albondigas en chipotle": {
+        "tiempo_preparacion": 60,
+        "utensilios": ["olla grande", "tazón", "licuadora"],
+        "porciones": 6,
+        "instrucciones": [
+            "Mezclar la carne molida con huevo, pan molido, ajo y especias.",
+            "Formar albóndigas del tamaño deseado.",
+            "Licuar los tomates con chiles chipotle y ajo.",
+            "Sofreír la salsa en una olla, agregar agua y llevar a ebullición.",
+            "Incorporar las albóndigas y cocinar a fuego bajo por 30 minutos.",
+            "Servir con arroz blanco."
+        ],
+        "ingredientes": {
+            "proteina": {"carne_molida_de_res": "500g","huevo": "1 unidad"},
+            "carbohidrato": {"pan_molido": "½ taza"},
+            "verdura": {"cebolla": "½ pieza", "tomates_rojos": "4 unidades"},
+            "condimento": {
+                "sal": "al gusto",
+                "pimienta": "al gusto",
+                "comino": "½ cucharadita"
+            },
+            "hierba": {"perejil": "2 cucharadas"},
+            "otros": {
+                "chiles_chipotle_en_adobo": "3 unidades",
+                "ajo": "3 dientes"
+            }
+        }
+    },
+        "tostadas_de_tinga": {
+        "tiempo_preparacion": 35,
+        "utensilios": ["sartén", "cuchillo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Calienta el aceite en un sartén y sofríe la cebolla y el ajo.",
+            "Agrega el jitomate licuado con chipotle y sal.",
+            "Añade el pollo desmenuzado y cocina hasta que la mezcla espese.",
+            "Sirve sobre tostadas y acompaña con crema, lechuga y queso."
+        ],
+        "ingredientes": {
+            "proteina": {"pollo_desmenuzado": "2 tazas"},
+            "verdura": {
+                "jitomates": "3 unidades",
+                "cebolla": "½ pieza",
+                "ajo": "1 diente",
+                "lechuga": "½ taza picada",
+                "chile_chipotle": "1 unidad"
+            },
+            "condimento": {"sal": "al gusto"},
+            "aceite": {"aceite": "2 cucharadas"},
+            "carbohidrato": {"tostadas": "8 piezas"},
+            "lacteo": {"crema": "½ taza", "queso_fresco": "½ taza"}
+        }
+    },
+    "flautas_de_pollo": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["sartén", "pinzas", "toallas de papel"],
+        "porciones": 4,
+        "instrucciones": [
+            "Coloca una porción de pollo desmenuzado en cada tortilla y enróllalas.",
+            "Fríe las flautas en aceite caliente hasta dorarlas.",
+            "Escurre el exceso de grasa y sirve con lechuga, crema, queso y salsa."
+        ],
+        "ingredientes": {
+            "proteina": {"pollo_desmenuzado": "2 tazas"},
+            "carbohidrato": {"tortillas_de_maíz": "12 unidades"},
+            "aceite": {"aceite": "1 taza"},
+            "verdura": {"lechuga": "1 taza picada", "jitomate": "½ taza picado"},
+            "lacteo": {"crema": "½ taza", "queso_fresco": "½ taza rallado"},
+            "condimento": {"sal": "al gusto"},
+            "otros": {"salsa": "al gusto"}
+        }
+    },
+    "fajitas_de_pollo": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén", "cuchillo", "pinzas"],
+        "porciones": 4,
+        "instrucciones": [
+            "Corta el pollo en tiras y sazona con sal, pimienta y ajo.",
+            "Sofríe el pollo hasta que esté cocido.",
+            "Agrega pimientos y cebolla en tiras y cocina hasta que se suavicen.",
+            "Sirve caliente en tortillas con salsa al gusto."
+        ],
+        "ingredientes": {
+            "proteina": {"pollo": "500 g"},
+            "verdura": {"pimiento_rojo": "1 unidad", "pimiento_verde": "1 unidad", "cebolla": "1 unidad"},
+            "carbohidrato": {"tortillas_de_maíz": "8 unidades"},
+            "aceite": {"aceite": "2 cucharadas"},
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto", "ajo": "1 diente"}
+        }
+    },
+    "sopes_mexicanos": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["comal", "sartén"],
+        "porciones": 6,
+        "instrucciones": [
+            "Forma pequeñas tortillas gruesas con la masa de maíz.",
+            "Cocina en comal y pellizca las orillas.",
+            "Fríe ligeramente los sopes.",
+            "Cubre con frijoles, carne, lechuga, crema, queso y salsa."
+        ],
+        "ingredientes": {
+            "carbohidrato": {"masa_de_maíz": "500 g"},
+            "proteina": {"carne_deshebrada": "1 taza"},
+            "legumbre": {"frijoles_refritos": "1 taza"},
+            "verdura": {"lechuga": "½ taza", "jitomate": "½ taza picado"},
+            "lacteo": {"crema": "½ taza", "queso_fresco": "½ taza"},
+            "aceite": {"aceite": "½ taza"},
+            "otros": {"salsa": "al gusto"}
+        }
+    },
+    "enchiladas_verdes": {
+        "tiempo_preparacion": 50,
+        "utensilios": ["sartén", "licuadora", "cazo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Hierve los tomates verdes y chiles hasta que estén suaves.",
+            "Licúa con cebolla, ajo y cilantro, cuela la salsa y fríe unos minutos.",
+            "Rellena las tortillas con pollo y cubre con la salsa verde.",
+            "Espolvorea queso y hornea 10 minutos.",
+            "Sirve con crema y hojas de cilantro."
+        ],
+        "ingredientes": {
+            "verdura": {"tomates_verdes": "6 unidades", "chile_jalapeño": "2 unidades", "cebolla": "½ pieza", "cilantro": "2 cucharadas"},
+            "proteina": {"pollo_desmenuzado": "2 tazas"},
+            "carbohidrato": {"tortillas_de_maíz": "12 unidades"},
+            "lacteo": {"queso_fresco": "½ taza", "crema": "½ taza"},
+            "aceite": {"aceite": "2 cucharadas"},
+            "condimento": {"sal": "al gusto"}
+        }
+    },
+    "pechuga_empanizada": {
+        "tiempo_preparacion": 30,
+        "utensilios": ["sartén", "tenedor", "plato hondo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Sazona las pechugas con sal y pimienta.",
+            "Pásalas por harina, huevo batido y pan molido.",
+            "Fríelas en aceite hasta dorar ambos lados.",
+            "Sirve con ensalada o arroz."
+        ],
+        "ingredientes": {
+            "proteina": {"pechugas_de_pollo": "4 unidades"},
+            "carbohidrato": {"harina": "½ taza", "pan_molido": "1 taza"},
+            "lacteo": {"huevo": "2 unidades"},
+            "aceite": {"aceite": "½ taza"},
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"},
+            "verdura": {"lechuga": "½ taza", "jitomate": "½ taza picado"}
+        }
+    },
+    "chiles_rellenos": {
+        "tiempo_preparacion": 60,
+        "utensilios": ["sartén", "batidor", "plato hondo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Asa los chiles y quítales la piel y semillas.",
+            "Rellena con queso o picadillo.",
+            "Pásalos por harina y huevo batido.",
+            "Fríe hasta dorar y sirve con salsa de jitomate."
+        ],
+        "ingredientes": {
+            "verdura": {"chiles_poblanos": "6", "jitomate": "3", "ajo": "1", "cebolla": "¼ pieza"},
+            "proteina": {"carne_molida (picadillo)": "al gusto"},
+            "carbohidrato": {"harina": "½ taza"},
+            "lacteo": {"huevo": "3"},
+            "aceite": {"aceite": "½ taza"},
+            "condimento": {"sal": "al gusto"},
+            "otros": {"pimiento_verde": "½ unidad (opcional)"}
+        }
+    },
+    "milanesa_de_res_con_ensalada": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["sartén", "tenedor", "plato hondo"],
+        "porciones": 4,
+        "instrucciones": [
+            "Sazona las milanesas con sal y pimienta.",
+            "Pásalas por huevo batido y pan molido.",
+            "Fríelas en aceite hasta dorar.",
+            "Sirve con una ensalada de lechuga, jitomate y pepino."
+        ],
+        "ingredientes": {
+            "proteina": {"milanesas_de_res": "4 piezas"},
+            "carbohidrato": {"pan_molido": "1 taza"},
+            "lacteo": {"huevo": "2 unidades"},
+            "aceite": {"aceite": "½ taza"},
+            "verdura": {"lechuga": "1 taza", "jitomate": "1 unidad", "pepino": "½ unidad"},
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"}
+        }
+    },
+    "pollo_con_brocoli_y_zanahoria": {
+        "tiempo_preparacion": 35,
+        "utensilios": ["sartén", "cuchillo", "olla"],
+        "porciones": 4,
+        "instrucciones": [
+            "Corta el pollo en trozos pequeños y sazona con sal.",
+            "Cocina el pollo en aceite hasta que esté dorado.",
+            "Agrega brócoli, zanahoria y un chorrito de salsa de soya.",
+            "Cocina a fuego medio hasta que las verduras estén suaves y el pollo cocido.",
+            "Sirve con arroz blanco."
+        ],
+        "ingredientes": {
+            "proteina": {"pechuga_de_pollo": "500 g"},
+            "verdura": {"brócoli": "1 taza", "zanahoria": "1 unidad", "cebolla": "½ pieza"},
+            "aceite": {"aceite": "2 cucharadas"},
+            "condimento": {"sal": "al gusto", "salsa_de_soya": "2 cucharadas"}
+        }
+    },
+    "tortitas_de_atun_en_salsa": {
+        "tiempo_preparacion": 40,
+        "utensilios": ["sartén", "tazón", "licuadora", "cuchara"],
+        "porciones": 4,
+        "instrucciones": [
+            "Mezcla el atún con pan molido, huevo, cebolla picada y perejil.",
+            "Forma tortitas y fríelas en aceite hasta dorarlas ligeramente.",
+            "Licúa jitomate, ajo y chile para preparar la salsa.",
+            "Vierte la salsa en una sartén, agrega las tortitas y deja cocinar por unos minutos.",
+            "Sirve caliente con arroz o frijoles."
+        ],
+        "ingredientes": {
+            "proteina": {"atun_en_lata": "2 latas", "huevo": "2 unidades"},
+            "carbohidrato": {"pan_molido": "½ taza"},
+            "verdura": {
+                "jitomates": "3 unidades",
+                "cebolla": "½ pieza",
+                "ajo": "1 diente",
+                "chile_serrano": "1 unidad",
+                "perejil": "2 cucharadas picadas"
+            },
+            "aceite": {"aceite": "3 cucharadas"},
+            "condimento": {"sal": "al gusto", "pimienta": "al gusto"}
+        }
+    }
+}
