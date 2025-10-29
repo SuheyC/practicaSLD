@@ -52,6 +52,26 @@ def unificar(x, y, sustitucion=None):
         return unificar_var(y, x, sustitucion)
     return None
 
+"""
+# ===== Versión equivalente usando bucles (no recursiva) =====
+
+def unificar_iterativo(x, y):
+    sustitucion = {}
+    pila = [(x, y)]  # se usa una pila para simular las llamadas recursivas
+
+    while pila:
+        a, b = pila.pop()
+        if a == b:
+            continue
+        elif isinstance(a, str) and a[0].isupper():
+            sustitucion[a] = b
+        elif isinstance(b, str) and b[0].isupper():
+            sustitucion[b] = a
+        else:
+            return None  # si no son iguales ni variables, no se puede unificar
+    return sustitucion
+"""
+
 def unificar_var(var, valor, sustitucion):
     if var in sustitucion:
         return unificar(sustitucion[var], valor, sustitucion)
@@ -61,6 +81,21 @@ def unificar_var(var, valor, sustitucion):
         nueva = sustitucion.copy()
         nueva[var] = valor
         return nueva
+    
+"""
+# ===== Versión equivalente con bucles (no recursiva) =====
+
+def unificar_var_iterativo(var, valor, sustitucion):
+    nueva = sustitucion.copy()
+
+    # Mientras el valor sea una variable presente en la sustitución,
+    # seguimos "resolviendo" hasta encontrar un valor final.
+    while isinstance(valor, str) and valor[0].isupper() and valor in nueva:
+        valor = nueva[valor]
+
+    nueva[var] = valor
+    return nueva
+"""
 
 # ============================================
 # Reglas (cláusulas de Horn)
@@ -77,6 +112,32 @@ def resolver_proteina_vegetal(receta):
                     sustituciones.append(subs)
     return sustituciones
 
+
+"""
+def resolver_proteina_vegetal_recursivo(receta, grupos=None, sustituciones=None):
+    # Inicializa los parámetros en la primera llamada
+    if grupos is None:
+        grupos = list(receta["ingredientes"].items())
+    if sustituciones is None:
+        sustituciones = []
+
+    # Caso base: si no hay más grupos, termina la recursión
+    if not grupos:
+        return sustituciones
+
+    # Toma el primer grupo y sus ingredientes
+    grupo, items = grupos[0]
+    for ing in items.keys():
+        base = ing.split("_")[0]
+        for p in proteina_vegetal:
+            subs = unificar(base, p)
+            if subs is not None:
+                sustituciones.append(subs)
+
+    # Llamada recursiva con el resto de los grupos
+    return resolver_proteina_vegetal_recursivo(receta, grupos[1:], sustituciones)
+"""
+
 def resolver_proteina_animal(receta):
     sustituciones = []
     for grupo, items in receta["ingredientes"].items():
@@ -87,6 +148,29 @@ def resolver_proteina_animal(receta):
                 if subs is not None:
                     sustituciones.append(subs)
     return sustituciones
+
+
+"""
+# ----------- Versión recursiva comentada -----------
+def resolver_proteina_animal_recursivo(receta, grupos=None, sustituciones=None):
+    if grupos is None:
+        grupos = list(receta["ingredientes"].items())
+    if sustituciones is None:
+        sustituciones = []
+
+    if not grupos:
+        return sustituciones
+
+    grupo, items = grupos[0]
+    for ing in items.keys():
+        base = ing.split("_")[0]
+        for p in proteina_animal:
+            subs = unificar(base, p)
+            if subs is not None:
+                sustituciones.append(subs)
+
+    return resolver_proteina_animal_recursivo(receta, grupos[1:], sustituciones)
+"""
 
 def resolver_carbohidrato(receta):
     sustituciones = []
@@ -99,6 +183,28 @@ def resolver_carbohidrato(receta):
                     sustituciones.append(subs)
     return sustituciones
 
+"""
+# ----------- Versión recursiva comentada -----------
+def resolver_carbohidrato_recursivo(receta, grupos=None, sustituciones=None):
+    if grupos is None:
+        grupos = list(receta["ingredientes"].items())
+    if sustituciones is None:
+        sustituciones = []
+
+    if not grupos:
+        return sustituciones
+
+    grupo, items = grupos[0]
+    for ing in items.keys():
+        base = ing.split("_")[0]
+        for c in carbohidratos:
+            subs = unificar(base, c)
+            if subs is not None:
+                sustituciones.append(subs)
+
+    return resolver_carbohidrato_recursivo(receta, grupos[1:], sustituciones)
+"""
+
 def resolver_verdura(receta):
     sustituciones = []
     for grupo, items in receta["ingredientes"].items():
@@ -109,6 +215,28 @@ def resolver_verdura(receta):
                 if subs is not None:
                     sustituciones.append(subs)
     return sustituciones
+
+"""
+# ----------- Versión recursiva comentada -----------
+def resolver_verdura_recursivo(receta, grupos=None, sustituciones=None):
+    if grupos is None:
+        grupos = list(receta["ingredientes"].items())
+    if sustituciones is None:
+        sustituciones = []
+
+    if not grupos:
+        return sustituciones
+
+    grupo, items = grupos[0]
+    for ing in items.keys():
+        base = ing.split("_")[0]
+        for v in verduras:
+            subs = unificar(base, v)
+            if subs is not None:
+                sustituciones.append(subs)
+
+    return resolver_verdura_recursivo(receta, grupos[1:], sustituciones)
+"""
 
 # ============================================
 # Funciones principales
@@ -151,3 +279,38 @@ if __name__ == "__main__":
             print(f"\nResultados para '{nombre}':")
             print(f"  - Es vegetariana: {'Sí' if vegetariana else 'No'}")
             print(f"  - Es completa: {'Sí' if completa else 'No'}\n")
+
+"""
+
+# Versión RECURSIVA del bloque principal
+
+
+def consultar_receta():
+    # Se muestra el mensaje inicial una sola vez
+    nombre = input("Escribe el nombre de la receta IGUAL QUE EN EL JSON (o 'salir' para terminar): ").strip()
+    
+    # Caso base de la recursión → condición de salida
+    if nombre.lower() == "salir":
+        print("\nPrograma finalizado. ¡Hasta pronto!")
+        return  # termina la función (no hay más llamadas)
+    
+    # Si no existe la receta
+    if nombre not in recetas:
+        print(f"La receta '{nombre}' no se encontró en la base de conocimiento.\n")
+    else:
+        # Si existe, se consultan los resultados
+        vegetariana = es_vegetariana(nombre)
+        completa = es_completa(nombre)
+        print(f"\nResultados para '{nombre}':")
+        print(f"  - Es vegetariana: {'Sí' if vegetariana else 'No'}")
+        print(f"  - Es completa: {'Sí' if completa else 'No'}\n")
+
+    # Llamada recursiva: vuelve a preguntar al usuario
+    consultar_receta()
+
+
+# Ejecución del programa (reemplaza al while True)
+if __name__ == "__main__":
+    print("=== Sistema de consulta de recetas (modo SLD - versión recursiva) ===\n")
+    consultar_receta()
+"""
