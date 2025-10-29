@@ -110,7 +110,7 @@ El script realiza los pasos del razonamiento SLD:
 3. **Resolución SLD:** permite derivar respuestas lógicas a consultas tipo `¿es vegetariana?` o `¿es completa?`.
 
 ---
-````
+
 ## 👩‍💻 Informacion
 
 | Nombre                       | Matrícula | Correo                                                |
