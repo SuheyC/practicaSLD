@@ -72,7 +72,7 @@ Permite consultar una **base de conocimiento** de recetas para determinar si son
    ```
 
 ---
-````
+
 ---  
 ## 🧠 Base de Conocimiento
   ```
