@@ -98,6 +98,7 @@ Ejemplo de cláusulas de Horn utilizadas:
    ```
 
 ---
+````
 
 ## 🔬 Funcionamiento lógico
 
@@ -108,7 +109,7 @@ El script realiza los pasos del razonamiento SLD:
 3. **Resolución SLD:** permite derivar respuestas lógicas a consultas tipo `¿es vegetariana?` o `¿es completa?`.
 
 ---
-
+````
 ## 👩‍💻 Informacion
 
 | Nombre                       | Matrícula | Correo                                                |
@@ -116,7 +117,7 @@ El script realiza los pasos del razonamiento SLD:
 | Yulianna Suhey Carrera Brito | 22760731  | [al22760731@ite.edu.mx](mailto:al22760731@ite.edu.mx) |
 
 ---
-
+````
 ## 🏫 Instituto
 
 **Tecnológico Nacional de México – Instituto Tecnológico de Ensenada**
@@ -126,7 +127,7 @@ El script realiza los pasos del razonamiento SLD:
 
 ---
 
-
+````
 
 ---
 
