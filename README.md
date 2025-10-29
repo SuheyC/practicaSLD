@@ -16,9 +16,7 @@ prologSLD/
 
 ---
 
-## 📘 Contenido del `README.md`
-
-Aquí te dejo un ejemplo completo y claro para que lo pegues directamente:
+## 📘 Contenido 
 
 ````markdown
 # 🔍 Proyecto: Resolución SLD en Python - prologSLD
