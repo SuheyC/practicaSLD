@@ -109,7 +109,7 @@ El script realiza los pasos del razonamiento SLD:
 
 ---
 
-## 👩‍💻 Equipo
+## 👩‍💻 Informacion
 
 | Nombre                       | Matrícula | Correo                                                |
 | ---------------------------- | --------- | ----------------------------------------------------- |
@@ -121,18 +121,12 @@ El script realiza los pasos del razonamiento SLD:
 
 **Tecnológico Nacional de México – Instituto Tecnológico de Ensenada**
 **Carrera:** Ingeniería en Sistemas Computacionales
-**Materia:** Inteligencia Artificial
+**Materia:**    Programacion Logica
 **Tema:** Resolución SLD (Prolog en Python)
 
 ---
 
-## 📚 Referencias
 
-* Concepto de Resolución SLD: [Wikipedia - SLD Resolution](https://en.wikipedia.org/wiki/SLD_resolution)
-* Paradigma lógico y Prolog.
-* Python 3.12 Documentation.
-
-```
 
 ---
 
