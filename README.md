@@ -18,7 +18,7 @@ prologSLD/
 
 ## 📘 Contenido 
 
-````markdown
+
 # 🔍 Proyecto: Resolución SLD en Python - prologSLD
 
 ## 📖 Descripción
@@ -30,13 +30,13 @@ Permite consultar una **base de conocimiento** de recetas para determinar si son
 
 ## 🧩 Archivos del proyecto
 
-| Archivo | Descripción |
-|----------|-------------|
-| `sdl_practice.py` | Script principal que implementa la resolución SLD, la unificación y la consulta interactiva. |
-| `recetas_completas.json` | Base de conocimiento (hechos) con recetas, ingredientes y categorías. |
-| `tupla.py` | Contiene ejemplos de hechos representados como tuplas para la tarea de las tupls. |
-| `tuplasKB.py` | Contiene ejemplos de hechos representados como tuplas para la base de conocimiento de nuestro proyecto final. |
-| `README.md` | Documento descriptivo del proyecto, equipo y explicación del modelo lógico. |
+ Archivo y Descripción 
+
+ `sdl_practice.py`= Script principal que implementa la resolución SLD, la unificación y la consulta interactiva. 
+ `recetas_completas.json`= Base de conocimiento (hechos) con recetas, ingredientes y categorías. 
+ `tupla.py` = Contiene ejemplos de hechos representados como tuplas para la tarea de las tupls. 
+ `tuplasKB.py` = Contiene ejemplos de hechos representados como tuplas para la base de conocimiento de nuestro proyecto final. 
+ `README.md` = Documento descriptivo del proyecto, equipo y explicación del modelo lógico. 
 
 ---
 
