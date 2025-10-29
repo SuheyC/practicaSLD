@@ -99,7 +99,7 @@ Ejemplo de cláusulas de Horn utilizadas:
    ```
 
 ---
-````
+
 
 ## 🔬 Funcionamiento lógico
 
