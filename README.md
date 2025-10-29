@@ -74,7 +74,7 @@ Permite consultar una **base de conocimiento** de recetas para determinar si son
 ---
 ````
 ## 🧠 Base de Conocimiento
-
+  ```
 Ejemplo de hechos (recetas):
 
 ```prolog
@@ -117,7 +117,7 @@ El script realiza los pasos del razonamiento SLD:
 | Yulianna Suhey Carrera Brito | 22760731  | [al22760731@ite.edu.mx](mailto:al22760731@ite.edu.mx) |
 
 ---
-````
+
 ## 🏫 Instituto
 
 **Tecnológico Nacional de México – Instituto Tecnológico de Ensenada**
