@@ -52,7 +52,7 @@ Permite consultar una **base de conocimiento** de recetas para determinar si son
 
    ```bash
    python sdl_practice.py
-   ```
+   
 ````
 3. Ingresa el **nombre exacto de la receta** según aparece en el archivo `recetas_completas.json`:
 
@@ -73,6 +73,7 @@ Permite consultar una **base de conocimiento** de recetas para determinar si son
 
 ---
 ````
+---  
 ## 🧠 Base de Conocimiento
   ```
 Ejemplo de hechos (recetas):
