@@ -128,9 +128,7 @@ El script realiza los pasos del razonamiento SLD:
 
 ---
 
-````
 
----
 
 ## 🧾 Confirmación final
 
